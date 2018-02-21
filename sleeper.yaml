@@ -1,3 +1,3 @@
 steps:
   - name: 'alpine'
-    args: [ 'sleep', '1' ]
+    args: [ 'sleep', '2' ]
